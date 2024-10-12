@@ -1,0 +1,10 @@
+version: '3.9'
+services:
+  webssh.cyrhades.fr:
+    build: webssh
+    ports:
+    - ${PORT}:8888
+  misc-privesc-me.cyrhades.fr:
+    image: anssi/fcsc2021-misc-privesc-me:latest
+    ports:
+      - ${PORT_SSH}:22
