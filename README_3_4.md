@@ -31,9 +31,9 @@ Origine : [Privesc Me 3/4 - Down the rabbit hole](https://hackropole.fr/fr/chall
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
 Mais voici comment installer ce CTF manuellement :
 
-> git clone https://github.com/Hack-Oeil/fcsc2021-misc-privesc-me-3.git
+> git clone https://github.com/Hack-Oeil/fcsc2021-misc-privesc-me.git
 
-> cd fcsc2021-misc-privesc-me-3
+> cd fcsc2021-misc-privesc-me
 
 
 -----------

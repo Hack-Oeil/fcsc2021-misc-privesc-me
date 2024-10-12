@@ -32,9 +32,9 @@ Origine : [Privesc Me 2/4 - Randomness checker](https://hackropole.fr/fr/challen
 Vous n'utilisez pas l'application **les CTFs de Cyrhades** ? C'est dommage !
 Mais voici comment installer ce CTF manuellement :
 
-> git clone https://github.com/Hack-Oeil/fcsc2021-misc-privesc-me-2.git
+> git clone https://github.com/Hack-Oeil/fcsc2021-misc-privesc-me.git
 
-> cd fcsc2021-misc-privesc-me-2
+> cd fcsc2021-misc-privesc-me
 
 
 -----------
